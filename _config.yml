@@ -2,9 +2,8 @@ theme: jekyll-theme-chirpy
 lang: ko-KR
 timezone: Asia/Seoul
 
-title: Jjungs7
+title: Jeongil Yang
 tagline: >-
-  DevOps Engineer<br>
   Platform Engineer<br>
   Developer
 description: >-
@@ -22,8 +21,9 @@ social:
   email: jeongy95@gmail.com
   links:
     - https://github.com/Jjungs7
-    - https://twitter.com/Jjungs7_
     - https://www.linkedin.com/in/jeongil-yang-4739b0172
+    - https://medium.com/@jeongy95
+    - https://twitter.com/Jjungs7_
 
 # Site Verification Settings
 webmaster_verifications:
@@ -57,7 +57,7 @@ theme_mode: light
 
 cdn:
 
-avatar: /assets/images/me.jpg
+avatar: /assets/img/me_casual.jpeg
 
 social_preview_image: # string, local or CORS resources
 

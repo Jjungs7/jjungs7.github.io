@@ -5,13 +5,10 @@
   icon: 'fab fa-linkedin'
   url:  'https://www.linkedin.com/in/jeongil-yang-4739b0172'
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: medium
+  icon: 'fab fa-medium'
+  url:  'https://medium.com/@jeongy95'
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
-
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true

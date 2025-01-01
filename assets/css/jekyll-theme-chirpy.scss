@@ -1,0 +1,20 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+.bundle
+{%- endif -%}
+';
+
+#archives .date.current {
+  margin-right: 4.2rem;
+}
+
+#archives ul li::before {
+  left: 187px;
+}
+
+#archives a::before {
+  left: 181px;
+}

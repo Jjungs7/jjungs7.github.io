@@ -1,0 +1,44 @@
+- title: Kakao Corp.
+  description: System / Platform Engineer, Developer
+  start_date: 2020-12-21
+  end_date: now
+  image: /assets/img/kakao_logo.png
+
+- title: Samsung SDS 20' 동계 알고리즘 특강
+  description: 삼성SDS Professional 등급 취득
+  start_date: 2020-01-27
+  end_date: 2020-02-07
+
+- title: PoolC
+  description: President and Vice President for a year
+  start_date: 2019-12-15
+  end_date: 2020-12-15
+  image: /assets/img/poolc_logo.png
+  link: "https://poolc.org"
+
+- title: Market Designers, Inc.
+  description: Internship. Backend and Frontend developer of 다이사
+  start_date: 2018-09-03
+  end_date: 2019-01-31
+  link: "https://da24.wematch.com"
+
+- title: Mobile embedded lab.
+  description: Internship. Developed tool to analyze BLE Beacon signals
+  start_date: 2018-07-23
+  end_date: 2018-08-31
+
+- title: Republic of Korea Army
+  description: 제11기계화보병사단 기갑수색대대 병장만기전역
+  start_date: 2016-04-25
+  end_date: 2018-01-24
+
+- title: Yonsei University
+  description: Bachelor of Computer Science
+  start_date: 2014-03-03
+  end_date: 2021-02-22
+  image: /assets/img/yonsei_university_logo.jpg
+
+- title: Asuncion High School
+  start_date: 2011-02-01
+  end_date: 2012-12-01
+  image: /assets/img/asuncion_high_school_logo.jpg
